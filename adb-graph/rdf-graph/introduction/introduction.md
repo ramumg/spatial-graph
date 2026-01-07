@@ -1,7 +1,7 @@
 # Work with RDF Graphs in Graph Studio
 
 ## Introduction
-Graph Studio in Oracle Autonomous Database enables users to model, create, query, and analyze graph data. It includes notebooks, developer APIs for executing graph queries using PGQL, 60+ built-in graph algorithms, and offers dozens of visualizations including native graph visualization.
+Graph Studio in Oracle Autonomous Database enables users to model, create, query, and analyze graph data. It includes notebooks, developer APIs for executing graph queries using PGQL, 80+ built-in graph algorithms, and offers dozens of visualizations including native graph visualization.
 In addition to property graph, Graph Studio now extends support for semantic technologies, including storage, inference, and query capabilities for data and ontologies based on Resource Description Framework (RDF) and Web Ontology Language (OWL).
 You can now use Graph Studio for the following supported RDF features:
 - Create an RDF graph
@@ -42,4 +42,4 @@ This concludes this lab. You may now *proceed to the next lab.*
 ## Acknowledgements
 - **Author** -  Nicholas Cusato, Ethan Shmargad, Matthew McDaniel Solution Engineers, Ramu Murakami Gutierrez Product Manager
 - **Technical Contributor** - Melliyal Annamalai Distinguished Product Manager, Joao Paiva Consulting Member of Technical Staff, Lavanya Jayapalan Principal User Assistance Developer
-- **Last Updated By/Date** -  Ramu Murakami Gutierrez Product Manager, June 2023
+- **Last Updated By/Date** -  Ramu Murakami Gutierrez Product Manager, January 2026

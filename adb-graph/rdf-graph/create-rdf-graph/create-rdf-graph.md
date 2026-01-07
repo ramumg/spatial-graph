@@ -54,7 +54,7 @@ This lab assumes you have:
 
   ![Naming the RDF Graph.](./images/name-rdf-graph.png "")
 
-7. Click on **Create**.
+8. Click on **Create**.
 
     The RDF graph creation job will be initiated. Since the RDF file contains 139461 records, the process may take 3 to 4 minutes. You can monitor the job on the **Jobs** page in Graph Studio.
 
@@ -106,4 +106,4 @@ This concludes this lab. *You may now proceed to the next lab.*
 
 - **Author** -  Malia German, Ethan Shmargad, Matthew McDaniel Solution Engineers, Ramu Murakami Gutierrez Product Manager
 - **Technical Contributor** -  Melliyal Annamalai Distinguished Product Manager, Joao Paiva Consulting Member of Technical Staff, Lavanya Jayapalan Principal User Assistance Developer
-- **Last Updated By/Date** - Ramu Murakami Gutierrez Product Manager, June 2023
+- **Last Updated By/Date** - Ramu Murakami Gutierrez Product Manager, January 2026
